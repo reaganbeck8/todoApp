@@ -10,6 +10,7 @@
 
 </head>
 <body>
+//Text
     <form action="<?php $_SERVER['PHP_SELF']; ?>" method="post">
     <h1>Input Your Name </h1>
 
